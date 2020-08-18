@@ -9,3 +9,7 @@ Steps:
 
 An example postgres dump is provided for schema. 
 
+## Data out
+
+Run gene_table_generator.sql on the postgres database (as provided in toolkit-2020-09-18.sql) to get a table with names, descriptions, and references. 
+
